@@ -3,7 +3,7 @@
 In this project, I developed a machine learning model to **predict Google’s stock price** using **Linear Regression**, one of the foundational techniques in data science. This end-to-end project covers everything from data preprocessing to model evaluation and prediction — all based on real-world financial data.
 
 ## 🔍 Project Summary
-Using historical stock price data of **Alphabet Inc. (GOOGL)**, I built a regression model that predicts future prices based on key indicators such as Open, Close, High, Low, Volume, and Adjusted Prices. This approach demonstrates how even a simple linear model can produce **highly accurate predictions** with the right data handling and feature engineering.
+Using historical stock price data of **Alphabet Inc. (GOOGLE)**, I built a regression model that predicts future prices based on key indicators such as Open, Close, High, Low, Volume, and Adjusted Prices. This approach demonstrates how even a simple linear model can produce **highly accurate predictions** with the right data handling and feature engineering.
 
 ## 📊 Workflow Overview
 - **Data Cleaning & Preprocessing:** Removed outliers using the IQR method and visual checks via boxplots. Formatted date columns and handled irrelevant or missing values.
