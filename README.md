@@ -9,7 +9,7 @@ Using historical stock price data of **Alphabet Inc. (GOOGLE)**, I built a regre
 - **Data Cleaning & Preprocessing:** Removed outliers using the IQR method and visual checks via boxplots. Formatted date columns and handled irrelevant or missing values.
 - **Exploratory Data Analysis (EDA):** Explored patterns and correlations using scatter plots, line graphs, and boxenplots. These helped in understanding stock behavior and feature relevance.
 - **Model Building:** Implemented Linear Regression using `scikit-learn`. Evaluated performance using metrics like:
-  - **R² Score:** 0.999 → Strong predictive power
+  - **R² Score:** 0.52 
   - **Adjusted R²:** Validated model stability
   - **MAE & RMSE:** Assessed model errors
 - **Visualizations:** Created insightful charts like:
